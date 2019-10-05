@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 60,
+            "database": "bank",
+            "dialect": "MySQL",
+            "isActive": true,
+            "isConnected": true,
+            "name": "zk_local_bank",
+            "password": "zk137818",
+            "port": 3306,
+            "server": "localhost",
+            "username": "zk"
+        }
+    ]
+}
